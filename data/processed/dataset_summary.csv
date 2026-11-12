@@ -1,0 +1,8 @@
+﻿filename,characters,words,null_count,english_terms,numeric_tokens
+sample-1.txt,3798,752,5,0,5
+sample-2.txt,3827,773,5,0,7
+sample-3.txt,3930,748,6,0,18
+sample-4.txt,5441,1122,4,23,20
+sample-5.txt,5012,1035,9,21,28
+sample-6.txt,2330,518,11,0,0
+sample-7.txt,3955,873,27,0,0

@@ -1,0 +1,18 @@
+{
+    "document": "sample-1",
+    "group_id": 1,
+    "sentence_ids": [
+        38,
+        22,
+        21,
+        33,
+        20
+    ],
+    "model": "Helsinki-NLP/opus-mt-hi-en",
+    "device": "cpu",
+    "ordering_status": "UNVERIFIED_CANDIDATE",
+    "source_language": "Hindi",
+    "target_language": "English",
+    "hindi_text": "भगवान कृष्ण ने इसे समुद्र के बीच में विशेष रूप से बसाया था। महाराज शिव ने भगवान परशुराम से यहाँ शिव मंदिर की स्थापना कराई थी। NULL ज्ञात रहे कि शिव बल्लभपुर को ही अब गढ़ मुक्तेश्वर के नाम से जाना जाता है। गढ़ मुक्तेश्वर का नाम शिव बल्लभपुर पड़ा। उस समय गढ़ मुक्तेश्वर बल्लभ संप्रदाय का मुख्य केन्द्र था।",
+    "english_translation": "The godhead had established it especially in the middle of the sea. Your Lord Shiva had set up a god at the temple."
+}
